@@ -42,3 +42,13 @@
   url: https://www.gaoding.com
   img: https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@master/webstack/assets/images/logos/gaoding.png
   description: 免费在线抠图软件,图片快速换背景-抠白底图
+
+- name: 字体子集生成器
+  url: https://en.m.fontke.com/tool/subfont/
+  img: https://cdn.jsdelivr.net/gh/blogimg/HexoStaticFile2@latest/2020/08/05/b69d18f0cad47fad5fd7e9447d9a5069.png
+  description: 字客网字体子集生成器可以让用户抽出一个字体文件里想要的字，再组成精减的字体文件，十分适合制作网页字体。操作简单，快捷，只需输入想要抽取的字，之后一键生成。
+
+- name: 字体子集生成器
+  url: https://en.m.fontke.com/tool/subfont/
+  img: https://cdn.jsdelivr.net/gh/blogimg/HexoStaticFile2@latest/2020/08/05/8c045fbabfb40f3ea65242502ce43de1.png
+  description: 使用此免费在线SVG 至PNG转换软件允许您将SVG文档转换成PNG文档，轻松且简单，无需安装任何软件。

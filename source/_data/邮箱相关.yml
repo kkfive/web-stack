@@ -10,6 +10,10 @@
   url: https://outlook.live.com/mail/inbox
   img: https://ae01.alicdn.com/kf/Hcc6463e54ff4448aa0f56f2bb0b8ed09K.png
   description: 获取免费的 Outlook 电子邮件和日历，还有 Word、Excel 和 PowerPoint 等 Office Online 应用。请进行登录，以访问你的 Outlook、Hotmail 或 Live 电子邮件帐户。
+- name: OutLook邮箱别名
+  url: https://account.live.com/names/Manage
+  img: https://ae01.alicdn.com/kf/Hcc6463e54ff4448aa0f56f2bb0b8ed09K.png
+  description: 为你的邮箱多加几个别名
 - name: 阿里企业邮箱
   url: https://qiye.aliyun.com/
   img: https://ae01.alicdn.com/kf/Heb7c49e050f441c7b70f6cefe3a5e31au.png

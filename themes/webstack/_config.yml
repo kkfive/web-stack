@@ -37,9 +37,9 @@ menu:
   - name: 线上操作
     icon: far fa-star
     submenu:
-      - name: 在线邮箱
+      - name: 邮箱相关
         icon: fas fa-envelope
-        config: 在线邮箱
+        config: 邮箱相关
       - name: 在线写作
         icon: fas fa-edit
         config: 在线写作
@@ -67,6 +67,9 @@ menu:
       - name: 开源项目
         icon: fas fa-code
         config: 开源项目
+      - name: 捷径直达
+        icon: fas fa-space-shuttle
+        config: 捷径直达
   - name: 素材资源
     icon: far fa-star
     submenu:
