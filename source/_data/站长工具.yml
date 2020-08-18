@@ -22,3 +22,12 @@
   img: https://ae03.alicdn.com/kf/U0384ac615a68409cb9b5fe811d9eedc5I.jpg
   url: https://uptimerobot.com/
   description: 50 Monitors, Checked Every 5 Minutes, Totally Free!
+
+- name: 测吧
+  img: https://files.alexhchu.com/2020/08/18/f17cbfd8faae9.png
+  url: http://www.ce8.com/http
+  description: 测一下 · 网站速度
+- name: 谷歌网站测速
+  img: https://files.alexhchu.com/2020/08/18/33acec4202456.png
+  url: https://www.googlespeed.cn/
+  description: 谷歌网站测速 PageSpeed Insights - Google网页性能优化测试
