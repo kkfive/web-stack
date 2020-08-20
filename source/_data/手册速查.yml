@@ -10,6 +10,10 @@
   img: https://ae01.alicdn.com/kf/Hd33626da4cac472d99e150ae80ac2ff4q.png
   url: https://developer.mozilla.org/zh-CN/docs/Web/Events
   description: 快速进入MDN的事件参考
+- name: Git book
+  img: https://git-scm.com/images/logo@2x.png
+  url: https://git-scm.com/book/zh/
+  description: 官方Git教程
 - name: Staticfile CDN
   img: https://ae01.alicdn.com/kf/Hebf9e5b0992e452fb0af9f0584d256b7g.png
   url: https://www.staticfile.org/
