@@ -122,6 +122,7 @@ busuanzi:
 custom:
   head:
     - <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@master/webstack/css/custom.css">
+    - <script>var _hmt=_hmt||[];(function(){var hm=document.createElement("script");hm.src="https://hm.baidu.com/hm.js?b654aabd86db1f625ec9ecc4afad16e1";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(hm,s)})();</script>
   body:
     - <script src="https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@master/webstack/js/custom.min.js"></script>
 js:
