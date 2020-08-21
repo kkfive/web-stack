@@ -6,18 +6,6 @@
   img: https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/avatar.jpg
   url: https://docs.tzki.cn/
   description: 一个文档与教程的收集
-- name: 小康的学习博客
-  img: https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/avatar.jpg
-  url: https://antmoe.gitee.io
-  description: 小康的学习博客-Hugo版
-- name: 个人导航
-  img: https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/avatar.jpg
-  url: https://dh.xiaokang.me/
-  description: 小康的个人导航页
-- name: 个人主页
-  img: https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/avatar.jpg
-  url: https://xiaokang.me/
-  description: 小康的个人主页
 - name: 扶贫三合一
   img: https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/avatar.jpg
   url: https://pay.tzki.cn/
