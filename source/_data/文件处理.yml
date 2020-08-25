@@ -8,6 +8,11 @@
   img: https://cdn.jsdelivr.net/gh/blogimg/HexoStaticFile2@latest/2020/07/10/c72ced84b64377d9b709d98865fe7d2c.png
   description: Pug 是一款健壮、灵活、功能丰富的模板引擎，专门为 Node.js 平台开发。Pug 是由 Jade 改名而来。
 
+- name: CSS转scss/sass
+  url: http://css2sass.herokuapp.com/
+  img: http://css2sass.herokuapp.com/images/favicon.ico
+  description: Convert CSS Snippets to Syntactically Awesome StyleSheets code
+
 - name: 消除背景
   url: https://www.remove.bg/zh/upload
   img: https://ae02.alicdn.com/kf/Hfe7cd53344ad45ab826400e46d6879edd.jpg
@@ -52,4 +57,3 @@
   url: https://en.m.fontke.com/tool/subfont/
   img: https://cdn.jsdelivr.net/gh/blogimg/HexoStaticFile2@latest/2020/08/05/8c045fbabfb40f3ea65242502ce43de1.png
   description: 使用此免费在线SVG 至PNG转换软件允许您将SVG文档转换成PNG文档，轻松且简单，无需安装任何软件。
-
