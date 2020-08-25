@@ -61,9 +61,9 @@ menu:
       - name: 资源存储
         icon: fas fa-cloud
         config: 资源存储
-      - name: 代码托管
+      - name: 程序员
         icon: fas fa-code-branch
-        config: 代码托管
+        config: 程序员
       - name: 开源项目
         icon: fas fa-code
         config: 开源项目

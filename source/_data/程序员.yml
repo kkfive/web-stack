@@ -22,3 +22,8 @@
   img: https://ae01.alicdn.com/kf/H68cb1b17450c401e9edcfaf88fea4446M.png
   url: https://www.netlify.com/
   description: 免费服务，速度稍稍有点慢
+
+- name: 持续集成服务 Travis CI
+  img: https://cdn.travis-ci.org/images/ui/travis-ci-logo-34114c551e92df51f9e499528b29e81e.svg
+  url: https://travis-ci.org/
+  description: 持续集成服务 Travis CI
