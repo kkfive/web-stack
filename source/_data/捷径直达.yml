@@ -7,3 +7,8 @@
   img: https://files.alexhchu.com/2020/08/18/91621410c3573.png
   url: https://checkcoverage.apple.com/cn/zh/
   description: Apple 查询保障服务
+
+- name: Google 高级设置
+  img: https://ae01.alicdn.com/kf/H55745a0d424543c2bc73d499ef251ce6C.png
+  url: chrome://flags/
+  description: Google浏览器的高级设置

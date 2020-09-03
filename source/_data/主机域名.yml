@@ -57,3 +57,8 @@
   img: https://ae01.alicdn.com/kf/H90861c9264ff48d0aa061ee5570d65232.png
   url: https://www.000webhost.com/
   description: Absolutely free web hosting with cPanel, PHP &amp; MySQL for a stunning blogging start. Get free website hosting together with a free domain name at no cost at all!
+
+- name: 笨牛网 免费CloudFlare CDN 防御系统
+  img: http://cdn.bnxb.com/img/logo1.png
+  url: http://cdn.bnxb.com/
+  description: 笨牛网免费CDN基于CloudFlare授权合作伙伴计划 ,支持批量添加域名,批量添加IP黑名单,railgun加速,DNS/CNAME/IP三种方式高速接入CF全球CDN加速防御体系,同时提供免费的DNS托管管理控制面板
