@@ -82,9 +82,9 @@ menu:
   - name: 与我相关
     icon: far fa-star
     submenu:
-      - name: 学习支持
+      - name: 学习参考
         icon: fas fa-tools
-        config: 学习支持
+        config: 学习参考
       - name: 背诵直达
         icon: fas fa-tools
         config: 背诵直达
