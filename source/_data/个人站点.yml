@@ -1,20 +1,8 @@
+- name: 小康的主页
+  img: https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/avatar.jpg
+  url: https://xiaokang.me/
+  description: 小康的主页！
 - name: 小康博客
   img: https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/avatar.jpg
   url: https://www.antmoe.com/
   description: 小康的个人博客主站！
-- name: 小康的学习博客
-  img: https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/avatar.jpg
-  url: https://docs.tzki.cn/
-  description: 一个文档与教程的收集
-- name: 扶贫三合一
-  img: https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/avatar.jpg
-  url: https://pay.tzki.cn/
-  description: 一个不能称为三合一的在线收款
-- name: 小康博客——博客园
-  img: https://ae01.alicdn.com/kf/Hcfb28b2134a6494a8c917f5212ddc06fF.png
-  url: https://www.cnblogs.com/antmoe/
-  description: 小康博客——博客园版
-- name: 小康博客——CSDN
-  img: https://ae01.alicdn.com/kf/Hf0668a453b3e42d2bf31eae478985dedE.png
-  url: https://blog.csdn.net/sviptzk
-  description: 小康博客——CSDN版
