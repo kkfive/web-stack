@@ -17,3 +17,13 @@
   img: https://files.alexhchu.com/2020/09/03/7fcd4cca61fd5.png
   url: https://docs.qq.com/sheet/DU0FkV2hLQWRkWWNN?tab=gj8aan
   description: 18级运营表
+
+- name: 定制雨伞
+  img: https://img.alicdn.com/tfs/TB1Ly5oS3HqK1RjSZFPXXcwapXa-238-54.png
+  url: https://developer.aliyun.com/adc/series/dms/
+  description: 阿里云定制雨伞领取
+
+- name: 定制T恤
+  img: https://img.alicdn.com/tfs/TB1Ly5oS3HqK1RjSZFPXXcwapXa-238-54.png
+  url: https://developer.aliyun.com/adc/series/web
+  description: 阿里云定制T恤
