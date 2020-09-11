@@ -7,6 +7,13 @@
   <meta name="keywords" content="<%= config.keywords %>">
   <meta name="description" content="<%= config.description %>">
   <link rel="shortcut icon" href="<%= theme.favicon %>">
+  <script>
+    var _hmt = _hmt || []; (function () {
+      var
+        hm = document.createElement("script"); hm.src = "https://hm.baidu.com/hm.js?b654aabd86db1f625ec9ecc4afad16e1"; var
+          s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s)
+    })();
+  </script>
   <%- css(Object.values(theme.css)) %>
   <%- js(theme.js.jquery) %>
   <%- js(theme.js.header) %>
