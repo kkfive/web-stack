@@ -14,6 +14,10 @@
   img: https://git-scm.com/images/logo@2x.png
   url: https://git-scm.com/book/zh/
   description: 官方Git教程
+- name: Actions参考手册
+  img: https://cdn.jsdelivr.net/gh/blogimg/HexoStaticFile2@latest/2020/08/05/c8b71d3d1df519256a9e7858363d6c12.png
+  url: https://docs.github.com/cn/free-pro-team@latest/actions/reference/workflow-syntax-for-github-actions
+  description: Actions参考手册
 - name: Staticfile CDN
   img: https://ae01.alicdn.com/kf/Hebf9e5b0992e452fb0af9f0584d256b7g.png
   url: https://www.staticfile.org/
