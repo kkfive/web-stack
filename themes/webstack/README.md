@@ -8,11 +8,38 @@
 
 ## Installation
 
+### hexo >= 4.0
+
 ```shell
 git clone https://github.com/HCLonely/hexo-theme-webstack themes/webstack
 ```
 
+### hexo >= 5.0
+
+```shell
+npm install hexo-theme-webstack -S
+```
+
+or
+
+```shell
+cnpm install hexo-theme-webstack -S
+```
+
 ## Configuration
+
+### hexo >= 4.0
+
+Copy the `_config.yml` file in the `themes/webstack/` directory to the `rootDir/source/_data/` directory and rename it to `webstack.yml`.
+
+Configure it by editing `webstack.yml`.
+
+### hexo >= 5.0
+
+- If this theme is newly installed, a `_config.webstack.yml` file will be generated in the root directory after the installation is complete, and you can directly edit the `_config.webstack.yml` file for configuration.
+- If it is a theme upgrade, you can use the configuration method of hexo >= 4.0, or you can move the original configuration file to the root directory and rename it to `_config.webstack.yml`.
+
+> Note: Please keep only one of `rootDir/_config.webstack.yml` and `rootDir/source/_data/webstack.yml`!
 
 ### favicon
 
@@ -57,9 +84,18 @@ logo:
 
 Examples:
 ```yml
-flag: 
+flag:
   icon: flag-cn
   name: Chinese
+```
+
+### search
+
+> Whether to show search box
+
+Examples:
+```yml
+search: true
 ```
 
 ### githubCorner
@@ -158,7 +194,7 @@ type: 'about'
 Examples:
 ```yml
 aboutPage:
-  website: 
+  website:
     head: 关于本站
     html: '<blockquote><p>本站是hexo主题<a href="https://github.com/HCLonely/hexo-theme-webstack">hexo-theme-webstack</a>的demo站。</p></blockquote>'
   webmaster:
@@ -168,6 +204,42 @@ aboutPage:
     img: /images/logos/myblog.png
     description: 懒人一个
     html: '<br /><blockquote><p>本站是<a href="https://github.com/HCLonely">HCLonely</a>基于<a href="https://github.com/WebStackPage/WebStackPage.github.io">WebStackPage</a>项目做的一款<a href="https://hexo.io/">Hexo</a>主题。</p></blockquote>'
+```
+
+### busuanzi
+
+> Website statistics by busuanzi.
+
+- enable: Whether to enable this feature.
+- position: The number of visits is displayed, `footer` is displayed in the footer, and `sidebar` is displayed in the sidebar.
+- pv: The number of visits displayed by the traffic, `$pv` will be replaced by the number of visits.
+- uv: The number of visitors displayed, `$uv` will be replaced by the number of visitors.
+
+Examples:
+```yml
+busuanzi:
+  enable: true
+  position: sidebar
+  pv: 本站总访问量$pv
+  uv: 本站总访客数$uv
+```
+
+### custom
+
+> Customize `html` content.
+
+- head: Content inserted into the `<head></head>` tag.
+- body: Content inserted before the `</body>` tag.
+
+Examples:
+```yml
+custom:
+  head: |- # The following content is inserted into the <head></head> tag, you can set up multiple lines, pay attention to at least four spaces at the beginning of each line.
+    <link rel="stylesheet" type="text/css" href="custom.css">
+    <script src="custom.js"></script>
+  body: |- # Insert the following content before the </body> tag, you can set multiple lines, pay attention to at least four spaces at the beginning of each line.
+    <div>custom text</div>
+    <script src="custom.js"></script>
 ```
 
 ## config
@@ -227,3 +299,17 @@ hotTools:
 ```
 
 Either of the above two methods can be selected. The second method is recommended.
+
+## Subpage configuration
+
+### Create subpage
+
+Use `hexo new page xxx` to create a child page, including the following descriptions, using `hexo new page child` as an example.
+
+### Modify the subpage configuration file
+
+After using the above command to generate the subpage, open the `root directory/source/child/index.md` file (subpage configuration file), and add a line `type:'child'` between the two `---` This configuration file takes effect. The sub-page uses the configuration of the homepage by default, and the sub-page preferentially uses the configuration between the two `---` sub-page configuration files. Each configuration item has the same configuration function as the homepage.
+
+See the example[https://github.com/HCLonely/hexo-theme-webstack/tree/gh-pages/source/child/index.md](https://github.com/HCLonely/hexo-theme-webstack/tree/gh-pages/source/child/index.md)
+
+> Since the subpage was basically completed a long time ago, it was later put on hold when it was busy. There may be some configuration or bugs that have been forgotten. If you have any questions, please feedback in time!

@@ -6,11 +6,38 @@
 
 ## 安装
 
+### hexo >= 4.0
+
 ```shell
 git clone https://github.com/HCLonely/hexo-theme-webstack themes/webstack
 ```
 
+### hexo >= 5.0
+
+```shell
+npm install hexo-theme-webstack -S
+```
+
+or
+
+```shell
+cnpm install hexo-theme-webstack -S
+```
+
 ## 配置
+
+### hexo >= 4.0
+
+将`themes/webstack/`目录内的`_config.yml`文件复制到`博客根目录/source/_data/`目录内，并重命名为`webstack.yml`.
+
+通过编辑`webstack.yml`进行配置。
+
+### hexo >= 5.0
+
+- 如果是新安装本主题，安装完成后会在根目录生成一个`_config.webstack.yml`文件，直接编辑`_config.webstack.yml`文件进行配置即可。
+- 如果是主题升级，可以使用 hexo >= 4.0 的配置方法，也可以将原来的配置文件移动到根目录，并重命名为`_config.webstack.yml`.
+
+> 注意：`博客根目录/_config.webstack.yml`和`博客根目录/source/_data/webstack.yml`请只保留一个！
 
 ### favicon
 
@@ -55,9 +82,18 @@ logo:
 
 示例：
 ```yml
-flag: 
+flag:
   icon: flag-cn
   name: Chinese
+```
+
+### search
+
+> 是否显示搜索框
+
+示例：
+```yml
+search: true
 ```
 
 ### githubCorner
@@ -156,7 +192,7 @@ type: 'about'
 示例：
 ```yml
 aboutPage:
-  website: 
+  website:
     head: 关于本站
     html: '<blockquote><p>本站是hexo主题<a href="https://github.com/HCLonely/hexo-theme-webstack">hexo-theme-webstack</a>的demo站。</p></blockquote>'
   webmaster:
@@ -166,6 +202,42 @@ aboutPage:
     img: /images/logos/myblog.png
     description: 懒人一个
     html: '<br /><blockquote><p>本站是<a href="https://github.com/HCLonely">HCLonely</a>基于<a href="https://github.com/WebStackPage/WebStackPage.github.io">WebStackPage</a>项目做的一款<a href="https://hexo.io/">Hexo</a>主题。</p></blockquote>'
+```
+
+### busuanzi
+
+> 不蒜子统计
+
+- enable: 是否启用不蒜子统计
+- position: 访问量显示位置, `footer`显示在页脚, `sidebar`显示在侧边栏
+- pv: 访问量显示的内容, `$pv`会被替换为访问量
+- uv: 访客数显示的内容, `$uv`会被替换为访客数
+
+示例：
+```yml
+busuanzi:
+  enable: true
+  position: sidebar
+  pv: 本站总访问量$pv
+  uv: 本站总访客数$uv
+```
+
+### custom
+
+> 自定义`html`内容
+
+- head: 插入到`<head></head>`标签内的内容
+- body: 插入到`</body>`标签之前的内容
+
+示例：
+```yml
+custom:
+  head: |- # 以下内容插入到<head></head>标签内，可设置多行，注意每行开头至少四个空格
+    <link rel="stylesheet" type="text/css" href="custom.css">
+    <script src="custom.js"></script>
+  body: |- # 以下内容插入到</body>标签之前，可设置多行，注意每行开头至少四个空格
+    <div>custom text</div>
+    <script src="custom.js"></script>
 ```
 
 ## config
@@ -224,6 +296,20 @@ hotTools:
   description: 面向开源及私有软件项目的托管平台。
 ```
 
-以上两种方式任选一种即可，建议使用第二种。
+> 以上两种方式任选一种即可，建议使用第二种。
 
 [配置详情](https://blog.hclonely.com/posts/3cd4fb34/)
+
+## 子页面配置
+
+### 创建子页面
+
+使用`hexo new page xxx`创建子页面，这里包括下面的说明都以`hexo new page child`为例。
+
+### 修改子页面配置文件
+
+使用上面的命令生成子页面后，打开`根目录/source/child/index.md`文件（子页面配置文件），在两个`---`之间添加一行`type: 'child'`使此配置文件生效，子页面默认使用主页的配置，子页面优先使用子页面配置文件两个`---`之间的配置，各配置项和主页的配置功能相同。
+
+示例请看[https://github.com/HCLonely/hexo-theme-webstack/tree/gh-pages/source/child/index.md](https://github.com/HCLonely/hexo-theme-webstack/tree/gh-pages/source/child/index.md)
+
+> 由于子页面在很久之前就基本做完了，后来比较忙就鸽了，可能有些配置或 bug 给忘了，有问题请及时反馈！
