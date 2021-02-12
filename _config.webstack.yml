@@ -70,21 +70,6 @@ menu:
       - name: 捷径直达
         icon: fas fa-space-shuttle
         config: 捷径直达
-  - name: 网络调试工具
-    icon: fas fa-network-wired
-    submenu:
-      - name: 重写规则
-        icon: fas fa-pen
-        config: 重写规则
-      - name: 分流规则
-        icon: fas fa-pen
-        config: 分流规则
-      - name: 定时脚本
-        icon: fas fa-pen
-        config: 定时脚本
-      - name: 大佬仓库
-        icon: fas fa-pen
-        config: 大佬仓库
   - name: 素材资源
     icon: far fa-star
     submenu:
