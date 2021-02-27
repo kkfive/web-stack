@@ -44,12 +44,16 @@
   description: 一個簡潔、卡片式設計的Hexo主題
 - name: 小康的butterfly食用手册
   img: https://q1.qlogo.cn/g?b=qq&nk=535668586&s=0
-  url: https://www.antmoe.com/posts/3b43914f/index.html
+  url: https://www.antmoe.com/posts/3b43914f/
   description: 小康的主题食用文档，不一定所有人哦！
 - name: Commit常用符号
   img: https://q1.qlogo.cn/g?b=qq&nk=535668586&s=0
-  url: https://www.antmoe.com/posts/34ede0da/index.html
+  url: https://www.antmoe.com/posts/34ede0da/
   description: 快点为你的commit增添点颜色吧！
+- name: Commit规范手册
+  img: https://q1.qlogo.cn/g?b=qq&nk=535668586&s=0
+  url: https://www.antmoe.com/posts/40e311db/
+  description: 快点为规范你的commit信息吧！
 - name: flex布局可视化
   img: https://file.acs.pw/picGo/2021/2/5/5b55fe91252871454045f46140357dda.jpg
   url: http://bigerfe.com/yflex
