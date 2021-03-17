@@ -1,5 +1,5 @@
-favicon: https://cdn.jsdelivr.net/gh/tzki/StaticFile@master/Hexo/img/favicon.ico
-banner: https://cdn.jsdelivr.net/gh/tzki/StaticFile/webstack/images/webstack_banner_cn.png
+favicon: https://cdn.jsdelivr.net/npm/kang-static/Hexo/img/favicon.ico
+banner: https://cdn.jsdelivr.net/npm/kang-static/webstack/images/webstack_banner_cn.png
 
 logo:
   expanded: https://ae01.alicdn.com/kf/H1af96f32cca14859bb82b694059fbc2d3.png
@@ -111,7 +111,7 @@ aboutPage:
     head: 关于站长
     name: 小康博客
     url: https://www.antmoe.com/
-    img: https://cdn.jsdelivr.net/gh/tzki/StaticFile@latest/avatar.jpg
+    img: https://cdn.jsdelivr.net/npm/kang-static/avatar.jpg
     description: 一个收藏回忆与分享技术的地方！
     html: '<br /><blockquote><p>本站是<a href="https://github.com/HCLonely">HCLonely</a>基于<a href="https://github.com/WebStackPage/WebStackPage.github.io">WebStackPage</a>项目做的一款<a href="https://hexo.io/">Hexo</a>主题。</p></blockquote>'
 
@@ -124,23 +124,23 @@ busuanzi:
 
 custom:
   head:
-    - <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/tzki/StaticFile/webstack/css/custom.css">
+    - <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/kang-static/webstack/css/custom.css">
   body:
-    - <script src="https://cdn.jsdelivr.net/gh/tzki/StaticFile/webstack/js/custom.min.js"></script>
+    - <script src="https://cdn.jsdelivr.net/npm/kang-static/webstack/js/custom.min.js"></script>
 js:
-  header: https://cdn.jsdelivr.net/gh/tzki/StaticFile/webstack/js/header.js
-  footer: https://cdn.jsdelivr.net/gh/tzki/StaticFile/webstack/js/footer.js
-  jquery: https://cdn.jsdelivr.net/gh/tzki/StaticFile/webstack/js/jquery-1.11.1.min.js
-  bootstrap: https://cdn.jsdelivr.net/gh/tzki/StaticFile/webstack/js/bootstrap.min.js
-  TweenMax: https://cdn.jsdelivr.net/gh/tzki/StaticFile/webstack/js/TweenMax.min.js
-  resizeable: https://cdn.jsdelivr.net/gh/tzki/StaticFile/webstack/js/resizeable.min.js
-  joinable: https://cdn.jsdelivr.net/gh/tzki/StaticFile/webstack/js/joinable.js
-  xenonApi: https://cdn.jsdelivr.net/gh/tzki/StaticFile/webstack/js/xenon-api.min.js
-  xenonToggles: https://cdn.jsdelivr.net/gh/tzki/StaticFile/webstack/js/xenon-toggles.min.js
-  xenonCustom: https://cdn.jsdelivr.net/gh/tzki/StaticFile/webstack/js/xenon-custom.min.js
-  lozad: https://cdn.jsdelivr.net/gh/tzki/StaticFile/webstack/js/lozad.min.js
-  html5shiv: https://cdn.jsdelivr.net/gh/tzki/StaticFile/webstack/js/html5shiv.min.js
-  respond: https://cdn.jsdelivr.net/gh/tzki/StaticFile/webstack/js/respond.min.js
+  header: https://cdn.jsdelivr.net/npm/kang-static/webstack/js/header.js
+  footer: https://cdn.jsdelivr.net/npm/kang-static/webstack/js/footer.js
+  jquery: https://cdn.jsdelivr.net/npm/kang-static/webstack/js/jquery-1.11.1.min.js
+  bootstrap: https://cdn.jsdelivr.net/npm/kang-static/webstack/js/bootstrap.min.js
+  TweenMax: https://cdn.jsdelivr.net/npm/kang-static/webstack/js/TweenMax.min.js
+  resizeable: https://cdn.jsdelivr.net/npm/kang-static/webstack/js/resizeable.min.js
+  joinable: https://cdn.jsdelivr.net/npm/kang-static/webstack/js/joinable.js
+  xenonApi: https://cdn.jsdelivr.net/npm/kang-static/webstack/js/xenon-api.min.js
+  xenonToggles: https://cdn.jsdelivr.net/npm/kang-static/webstack/js/xenon-toggles.min.js
+  xenonCustom: https://cdn.jsdelivr.net/npm/kang-static/webstack/js/xenon-custom.min.js
+  lozad: https://cdn.jsdelivr.net/npm/kang-static/webstack/js/lozad.min.js
+  html5shiv: https://cdn.jsdelivr.net/npm/kang-static/webstack/js/html5shiv.min.js
+  respond: https://cdn.jsdelivr.net/npm/kang-static/webstack/js/respond.min.js
   busuanzi: https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js
   # header: /js/header.js
   # footer: /js/footer.js
@@ -158,12 +158,12 @@ js:
   # busuanzi: https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js
 
 css:
-  hclonely: https://cdn.jsdelivr.net/gh/tzki/StaticFile/webstack/css/hclonely.css
+  hclonely: https://cdn.jsdelivr.net/npm/kang-static/webstack/css/hclonely.css
   fonts: //fonts.loli.net/css?family=Arimo:400,700,400italic
-  linecons: https://cdn.jsdelivr.net/gh/tzki/StaticFile/webstack/css/fonts/linecons/css/linecons.min.css
-  fontawesome: https://cdn.jsdelivr.net/gh/tzki/StaticFile/webstack/css/fonts/fontawesome/css/all.min.css
-  bootstrap: https://cdn.jsdelivr.net/gh/tzki/StaticFile/webstack/css/bootstrap.min.css
-  xenonCore: https://cdn.jsdelivr.net/gh/tzki/StaticFile/webstack/css/xenon-core.min.css
-  xenonComponents: https://cdn.jsdelivr.net/gh/tzki/StaticFile/webstack/css/xenon-components.min.css
-  xenonSkins: https://cdn.jsdelivr.net/gh/tzki/StaticFile/webstack/css/xenon-skins.min.css
-  nav: https://cdn.jsdelivr.net/gh/tzki/StaticFile/webstack/css/nav.min.css
+  linecons: https://cdn.jsdelivr.net/npm/kang-static/webstack/css/fonts/linecons/css/linecons.min.css
+  fontawesome: https://cdn.jsdelivr.net/npm/kang-static/webstack/css/fonts/fontawesome/css/all.min.css
+  bootstrap: https://cdn.jsdelivr.net/npm/kang-static/webstack/css/bootstrap.min.css
+  xenonCore: https://cdn.jsdelivr.net/npm/kang-static/webstack/css/xenon-core.min.css
+  xenonComponents: https://cdn.jsdelivr.net/npm/kang-static/webstack/css/xenon-components.min.css
+  xenonSkins: https://cdn.jsdelivr.net/npm/kang-static/webstack/css/xenon-skins.min.css
+  nav: https://cdn.jsdelivr.net/npm/kang-static/webstack/css/nav.min.css
