@@ -67,9 +67,9 @@ menu:
       - name: 开源项目
         icon: fas fa-code
         config: 开源项目
-      - name: 捷径直达
-        icon: fas fa-space-shuttle
-        config: 捷径直达
+      # - name: 捷径直达
+      #   icon: fas fa-space-shuttle
+      #   config: 捷径直达
   - name: 素材资源
     icon: far fa-star
     submenu:
@@ -79,24 +79,6 @@ menu:
       - name: 渐变配色
         icon: fas fa-tools
         config: 渐变配色
-  - name: 与我相关
-    icon: far fa-star
-    submenu:
-      - name: 学习参考
-        icon: fas fa-tools
-        config: 学习参考
-      - name: 背诵直达
-        icon: fas fa-tools
-        config: 背诵直达
-      - name: 每日背诵
-        icon: fas fa-tools
-        config: 每日背诵
-      - name: 个人站点
-        icon: fas fa-star
-        config: 个人站点
-      - name: 朋友推荐
-        icon: fas fa-tools
-        config: 朋友推荐
 
 about:
   url: /about/
