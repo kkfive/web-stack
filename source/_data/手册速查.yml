@@ -58,3 +58,7 @@
   img: https://file.acs.pw/picGo/2021/2/5/5b55fe91252871454045f46140357dda.jpg
   url: http://bigerfe.com/yflex
   description: 可视化的方式看flex布局的样式
+- name: BetterScrll 2 中文文档
+  img: https://7.dusays.com/2021/06/11/09c06b12b323d.svg
+  url: https://better-scroll.github.io/docs/zh-CN/
+  description: 为移动端（已支持 PC）各种滚动场景提供丝滑的滚动效果。
