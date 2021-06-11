@@ -16,12 +16,9 @@ menu:
   - name: 常用工具
     icon: far fa-star
     submenu:
-      - name: 手册速查
+      - name: 参考文档
         icon: fas fa-book
-        config: 手册速查
-      - name: 参考资料
-        icon: fas fa-book
-        config: 参考资料
+        config: 参考文档
       - name: 图床工具
         icon: fas fa-file-image
         config: 图床工具

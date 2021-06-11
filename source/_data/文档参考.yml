@@ -1,64 +1,109 @@
-- name: CSS参考-MDN
-  img: https://ae01.alicdn.com/kf/Hd33626da4cac472d99e150ae80ac2ff4q.png
-  url: https://developer.mozilla.org/zh-CN/docs/Web/CSS/Reference
-  description: 快速进入MDN的CSS参考手册
-- name: Web API参考-MDN
-  img: https://ae01.alicdn.com/kf/Hd33626da4cac472d99e150ae80ac2ff4q.png
-  url: https://developer.mozilla.org/zh-CN/docs/Web/API
-  description: 快速进入MDN的Web API参考
-- name: 事件参考-MDN
-  img: https://ae01.alicdn.com/kf/Hd33626da4cac472d99e150ae80ac2ff4q.png
-  url: https://developer.mozilla.org/zh-CN/docs/Web/Events
-  description: 快速进入MDN的事件参考
-- name: Git book
-  img: https://git-scm.com/images/logo@2x.png
-  url: https://git-scm.com/book/zh/
-  description: 官方Git教程
-- name: Actions参考手册
-  img: https://cdn.jsdelivr.net/gh/blogimg/HexoStaticFile2@latest/2020/08/05/c8b71d3d1df519256a9e7858363d6c12.png
-  url: https://docs.github.com/cn/free-pro-team@latest/actions/reference/workflow-syntax-for-github-actions
-  description: Actions参考手册
-- name: Staticfile CDN
-  img: https://ae01.alicdn.com/kf/Hebf9e5b0992e452fb0af9f0584d256b7g.png
-  url: https://www.staticfile.org/
-  description: 免费、快速、开放的 CDN 服务
-- name: 又拍云JS库加速服务
-  img: https://ae01.alicdn.com/kf/H0961ac0c572b4caea27e77a47f152b19U.png
-  url: http://jscdn.upai.com/
-  description: APP界面截图参考
-- name: Can I use
-  img: https://ae01.alicdn.com/kf/H21eee713a2274f1596f73d434f76ad4aw.png
-  url: https://caniuse.com/
-  description: Can I use... Support tables for HTML5, CSS3, etc
-- name: loveit主题文档
-  img: https://ae01.alicdn.com/kf/H543d959aabea41a99084438bd8201e85t.png
-  url: https://hugoloveit.com/zh-cn/categories/documentation/
-  description: loveit主题使用文档
-- name: volantis主题使用文档
-  img: https://ae01.alicdn.com/kf/H0e73137a5f9f418b8836a02d84aa33b7r.png
-  url: https://volantis.js.org/v2/getting-started/
-  description: Volantis，一个高度模块化和可定制化、功能相对完善的 Hexo 博客主题，既可以用作个人博客，也适合用来搭建文档。
-- name: Butterfly主题使用文档
-  img: https://ae01.alicdn.com/kf/H99319ea2b765474192fe44b570df44c6G.png
-  url: https://docs.jerryc.me/#/
-  description: 一個簡潔、卡片式設計的Hexo主題
-- name: 小康的butterfly食用手册
-  img: https://q1.qlogo.cn/g?b=qq&nk=535668586&s=0
-  url: https://www.antmoe.com/posts/3b43914f/
-  description: 小康的主题食用文档，不一定所有人哦！
-- name: Commit常用符号
-  img: https://q1.qlogo.cn/g?b=qq&nk=535668586&s=0
-  url: https://www.antmoe.com/posts/34ede0da/
-  description: 快点为你的commit增添点颜色吧！
-- name: Commit规范手册
-  img: https://q1.qlogo.cn/g?b=qq&nk=535668586&s=0
-  url: https://www.antmoe.com/posts/40e311db/
-  description: 快点为规范你的commit信息吧！
-- name: flex布局可视化
-  img: https://file.acs.pw/picGo/2021/2/5/5b55fe91252871454045f46140357dda.jpg
-  url: http://bigerfe.com/yflex
-  description: 可视化的方式看flex布局的样式
+- name: ES6 入门教程
+  img: https://ae04.alicdn.com/kf/H147985c637ff42259f16d2a4400ea837k.jpg
+  url: https://docs.tzki.cn/es6/
+  description: 《ECMAScript 6 入门教程》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性
+
+- name: Pug 模板引擎中文文档
+  img: https://cdn.jsdelivr.net/gh/blogimg/HexoStaticFile2@latest/2020/07/10/c72ced84b64377d9b709d98865fe7d2c.png
+  url: https://www.pugjs.cn/api/getting-started.html
+  description: Pug 是一款健壮、灵活、功能丰富的模板引擎，专门为 Node.js 平台开发。Pug 是由 Jade 改名而来。
+
+- name: npm 中文文档
+  img: https://ae03.alicdn.com/kf/Ha6b9cbd364c34469bf1b3e33fe37ae9cn.jpg
+  url: https://www.npmjs.cn/
+  description: npm 是 JavaScript 世界的包管理工具，并且是 Node.js 平台的默认包管理工具。通过 npm 可以安装、共享、分发代码，管理项目依赖关系。
+
+- name: webpack
+  img: https://ae02.alicdn.com/kf/Hf9be67f4f5a44150aec70e2c428eab35V.jpg
+  url: https://www.webpackjs.com/concepts/
+  description: webpack 是一个现代 JavaScript 应用程序的静态模块打包器(module bundler)
+
+- name: mongoosejs
+  img: https://cdn.jsdelivr.net/gh/blogimg/HexoStaticFile2@latest/2020/07/08/125b85d7b6cbdd3789bf4bf70bfb112b.png
+  url: http://mongoosejs.net/
+  description: 让我们面对这样的困境, 编写MongoDB验证，转换和业务逻辑是非常麻烦的. 所以我们发明了Mongoose.
+
+- name: APIDOC
+  img: https://ae04.alicdn.com/kf/He28fb8929ba043bc8b3b3b4a7808b0a36.jpg
+  url: https://apidocjs.com/
+  description: Inline Documentation for RESTful web APIs
+
 - name: BetterScrll 2 中文文档
   img: https://7.dusays.com/2021/06/11/09c06b12b323d.svg
   url: https://better-scroll.github.io/docs/zh-CN/
   description: 为移动端（已支持 PC）各种滚动场景提供丝滑的滚动效果。
+
+- name: pnpm中文文档
+  img: https://7.dusays.com/2021/06/11/414cf91dedfe2.svg
+  url: https://pnpm.io/zh/motivation
+  description: 快速的，节省磁盘空间的包管理工具
+
+- name: CSS参考-MDN
+  img: https://ae01.alicdn.com/kf/Hd33626da4cac472d99e150ae80ac2ff4q.png
+  url: https://developer.mozilla.org/zh-CN/docs/Web/CSS/Reference
+  description: 快速进入MDN的CSS参考手册
+
+- name: Web API参考-MDN
+  img: https://ae01.alicdn.com/kf/Hd33626da4cac472d99e150ae80ac2ff4q.png
+  url: https://developer.mozilla.org/zh-CN/docs/Web/API
+  description: 快速进入MDN的Web API参考
+
+- name: 事件参考-MDN
+  img: https://ae01.alicdn.com/kf/Hd33626da4cac472d99e150ae80ac2ff4q.png
+  url: https://developer.mozilla.org/zh-CN/docs/Web/Events
+  description: 快速进入MDN的事件参考
+
+- name: Git book
+  img: https://git-scm.com/images/logo@2x.png
+  url: https://git-scm.com/book/zh/
+  description: 官方Git教程
+
+- name: Actions参考手册
+  img: https://cdn.jsdelivr.net/gh/blogimg/HexoStaticFile2@latest/2020/08/05/c8b71d3d1df519256a9e7858363d6c12.png
+  url: https://docs.github.com/cn/free-pro-team@latest/actions/reference/workflow-syntax-for-github-actions
+  description: Actions参考手册
+
+- name: Staticfile CDN
+  img: https://ae01.alicdn.com/kf/Hebf9e5b0992e452fb0af9f0584d256b7g.png
+  url: https://www.staticfile.org/
+  description: 免费、快速、开放的 CDN 服务
+
+- name: 又拍云JS库加速服务
+  img: https://ae01.alicdn.com/kf/H0961ac0c572b4caea27e77a47f152b19U.png
+  url: http://jscdn.upai.com/
+  description: APP界面截图参考
+
+- name: Can I use
+  img: https://ae01.alicdn.com/kf/H21eee713a2274f1596f73d434f76ad4aw.png
+  url: https://caniuse.com/
+  description: Can I use... Support tables for HTML5, CSS3, etc
+
+- name: volantis主题使用文档
+  img: https://ae01.alicdn.com/kf/H0e73137a5f9f418b8836a02d84aa33b7r.png
+  url: https://volantis.js.org/v2/getting-started/
+  description: Volantis，一个高度模块化和可定制化、功能相对完善的 Hexo 博客主题，既可以用作个人博客，也适合用来搭建文档。
+
+- name: Butterfly主题使用文档
+  img: https://ae01.alicdn.com/kf/H99319ea2b765474192fe44b570df44c6G.png
+  url: https://docs.jerryc.me/#/
+  description: 一個簡潔、卡片式設計的Hexo主題
+
+- name: 小康的butterfly食用手册
+  img: https://q1.qlogo.cn/g?b=qq&nk=535668586&s=0
+  url: https://www.antmoe.com/posts/3b43914f/
+  description: 小康的主题食用文档，不一定所有人哦！
+
+- name: Commit常用符号
+  img: https://q1.qlogo.cn/g?b=qq&nk=535668586&s=0
+  url: https://www.antmoe.com/posts/34ede0da/
+  description: 快点为你的commit增添点颜色吧！
+
+- name: Commit规范手册
+  img: https://q1.qlogo.cn/g?b=qq&nk=535668586&s=0
+  url: https://www.antmoe.com/posts/40e311db/
+  description: 快点为规范你的commit信息吧！
+
+- name: flex布局可视化
+  img: https://file.acs.pw/picGo/2021/2/5/5b55fe91252871454045f46140357dda.jpg
+  url: http://bigerfe.com/yflex
+  description: 可视化的方式看flex布局的样式
