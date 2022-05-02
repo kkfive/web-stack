@@ -1,0 +1,14 @@
+- name: 小康博客
+  img: https://cdn1.tianli0.top/npm/kang-static@latest/avatar.jpg
+  url: https://www.antmoe.com
+  description: 一个收藏回忆与分享技术的地方！
+
+- name: Lete乐特 's Blog
+  img: https://www.imlete.cn/img/avatar.png
+  url: https://blog.imlete.cn/
+  description: 我相信我可以，但我一直在路上，所以我有无限的可能！
+
+- name: CC's Blog
+  img: https://cdn.jsdelivr.net/gh/ccknbc-backup/cdn/logo/logo.png
+  url: http://blog.ccknbc.cc/
+  description: CC的部落格，CC康纳百川的小窝，与你分享二三事

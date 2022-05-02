@@ -1,0 +1,4 @@
+- name: 博天API
+  url: http://api.btstu.cn/
+  img: https://ae01.alicdn.com/kf/Hd8c81d03e2cb409f83aa2c940c99c678c.png
+  description: 高速稳定免费APi接口调用平台

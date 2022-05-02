@@ -1,0 +1,24 @@
+- name: volantis主题使用文档
+  img: https://npm.elemecdn.com/volantis-static@0.0.1649552113628/media/org.volantis/blog/favicon/apple-touch-icon.png
+  url: https://volantis.js.org/
+  description: Volantis，一个高度模块化和可定制化、功能相对完善的 Hexo 博客主题，既可以用作个人博客，也适合用来搭建文档。
+
+- name: Butterfly主题使用文档
+  img: https://butterfly.js.org/img/favicon.png
+  url: https://butterfly.js.org/
+  description: 一個簡潔、卡片式設計的Hexo主題
+
+- name: 小康的butterfly食用手册
+  img: https://q1.qlogo.cn/g?b=qq&nk=535668586&s=0
+  url: https://www.antmoe.com/posts/3b43914f/
+  description: 小康的主题食用文档，不一定所有人哦！
+
+- name: Commit常用符号
+  img: https://q1.qlogo.cn/g?b=qq&nk=535668586&s=0
+  url: https://www.antmoe.com/posts/34ede0da/
+  description: 快点为你的commit增添点颜色吧！
+
+- name: Commit规范手册
+  img: https://q1.qlogo.cn/g?b=qq&nk=535668586&s=0
+  url: https://www.antmoe.com/posts/40e311db/
+  description: 快点为规范你的commit信息吧！

@@ -4,7 +4,7 @@
   description: 人工智能在线写作。
 
 - name: 语雀
-  img: https://files.alexhchu.com/2020/08/18/92a49d12f7217.png
+  img: https://gw.alipayobjects.com/mdn/prod_resou/afts/img/A*CUIoT4xopNYAAAAAAAAAAABkARQnAQ
   url: https://www.yuque.com/
   description: 面向个人和团队，提供与众不同的知识管理，打造轻松流畅的工作协同。
 
@@ -37,13 +37,3 @@
   url: https://gitmind.cn/app/my
   img: https://ae01.alicdn.com/kf/H3fdfe57175db452da1ef2221ab00c77ez.png
   description: GitMind是一款免费在线思维导图软件，支持Windows/Mac/Linux多平台操作及内容同步。图片、链接、备注等实用工具，让你的思维导图更加生动
-
-- name: Mac代码块
-  url: https://carbon.now.sh/
-  img: https://ae01.alicdn.com/kf/Hb1c8a09d5dc34d9298dc3e13853b3ed0P.png
-  description: 快速生成MAC样式的代码块。
-
-- name: 网站缩略图
-  url: http://s.zcjun.com/
-  img: https://ae01.alicdn.com/kf/Hc23a4ccd5cb44361b85d69bcdea4ab73D.png
-  description: 网站缩略图生成

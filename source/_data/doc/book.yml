@@ -1,0 +1,64 @@
+- name: ES6 入门教程
+  img: https://es6.ruanyifeng.com/favicon.ico
+  url: https://es6.ruanyifeng.com/
+  description: 《ECMAScript 6 入门教程》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性
+
+- name: Pug 模板引擎中文文档
+  img: https://www.pugjs.cn/images/apple-touch-icon.png
+  url: https://www.pugjs.cn/api/getting-started.html
+  description: Pug 是一款健壮、灵活、功能丰富的模板引擎，专门为 Node.js 平台开发。Pug 是由 Jade 改名而来。
+
+- name: npm 中文文档
+  img: https://www.npmjs.cn/images/favicon.ico
+  url: https://www.npmjs.cn/
+  description: npm 是 JavaScript 世界的包管理工具，并且是 Node.js 平台的默认包管理工具。通过 npm 可以安装、共享、分发代码，管理项目依赖关系。
+
+- name: webpack
+  img: https://www.webpackjs.com/assets/favicon.ico
+  url: https://www.webpackjs.com/concepts/
+  description: webpack 是一个现代 JavaScript 应用程序的静态模块打包器(module bundler)
+
+- name: mongoosejs
+  img: https://besticon.herokuapp.com/lettericons/M-120.png
+  url: http://mongoosejs.net/
+  description: 让我们面对这样的困境, 编写MongoDB验证，转换和业务逻辑是非常麻烦的. 所以我们发明了Mongoose.
+
+- name: APIDOC
+  img: https://apidocjs.com/img/favicon.ico
+  url: https://apidocjs.com/
+  description: Inline Documentation for RESTful web APIs
+
+- name: BetterScrll 2 中文文档
+  img: https://dpubstatic.udache.com/static/dpubimg/t_L6vAgQ-E/logo.svg
+  url: https://better-scroll.github.io/docs/zh-CN/
+  description: 为移动端（已支持 PC）各种滚动场景提供丝滑的滚动效果。
+
+- name: pnpm中文文档
+  img: https://pnpm.io/img/favicon.png
+  url: https://pnpm.io/zh/motivation
+  description: 快速的，节省磁盘空间的包管理工具
+
+- name: CSS参考-MDN
+  img: https://ae01.alicdn.com/kf/Hd33626da4cac472d99e150ae80ac2ff4q.png
+  url: https://developer.mozilla.org/zh-CN/docs/Web/CSS/Reference
+  description: 快速进入MDN的CSS参考手册
+
+- name: Web API参考-MDN
+  img: https://ae01.alicdn.com/kf/Hd33626da4cac472d99e150ae80ac2ff4q.png
+  url: https://developer.mozilla.org/zh-CN/docs/Web/API
+  description: 快速进入MDN的Web API参考
+
+- name: 事件参考-MDN
+  img: https://ae01.alicdn.com/kf/Hd33626da4cac472d99e150ae80ac2ff4q.png
+  url: https://developer.mozilla.org/zh-CN/docs/Web/Events
+  description: 快速进入MDN的事件参考
+
+- name: Git book
+  img: https://git-scm.com/images/logo@2x.png
+  url: https://git-scm.com/book/zh/
+  description: 官方Git教程
+
+- name: Actions参考手册
+  img: https://docs.github.com/apple-touch-icon.png
+  url: https://docs.github.com/cn/free-pro-team@latest/actions/reference/workflow-syntax-for-github-actions
+  description: Actions参考手册
