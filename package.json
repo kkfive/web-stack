@@ -19,8 +19,6 @@
     "gulp-htmlmin": "^5.0.1",
     "gulp-uglify": "^3.0.2",
     "hexo": "^5.4.2",
-    "hexo-baidupush": "^1.0.2",
-    "hexo-deployer-git": "^3.0.0",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
     "hexo-generator-index": "^2.0.0",
