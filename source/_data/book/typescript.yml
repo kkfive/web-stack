@@ -1,0 +1,9 @@
+- name: TypeScript入门教程
+  img: https://ts.xcatliu.com/favicon.png
+  url: https://ts.xcatliu.com/
+  description: 从 JavaScript 程序员的角度总结思考，循序渐进的理解 TypeScript。
+
+- name: 深入理解TypeScript
+  img: https://jkchao.github.io/typescript-book-chinese/logo.png
+  url: https://jkchao.github.io/typescript-book-chinese
+  description: TypeScript Deep Dive 中文版
