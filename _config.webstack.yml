@@ -123,28 +123,28 @@ custom:
     - <script src="https://cdn1.tianli0.top/npm/kang-static/webstack/js/custom.min.js"></script>
 
 js:
-  header: https://cdn1.tianli0.top/gh/kkfive/web-stack@gh-pages/js/header.min.js
-  footer: https://cdn1.tianli0.top/gh/kkfive/web-stack@gh-pages/js/footer.js
-  jquery: https://cdn1.tianli0.top/gh/kkfive/web-stack@gh-pages/js/jquery-1.11.1.min.js
-  bootstrap: https://cdn1.tianli0.top/gh/kkfive/web-stack@gh-pages/js/bootstrap.min.js
-  TweenMax: https://cdn1.tianli0.top/gh/kkfive/web-stack@gh-pages/js/TweenMax.min.js
-  resizeable: https://cdn1.tianli0.top/gh/kkfive/web-stack@gh-pages/js/resizeable.min.js
-  joinable: https://cdn1.tianli0.top/gh/kkfive/web-stack@gh-pages/js/joinable.js
-  xenonApi: https://cdn1.tianli0.top/gh/kkfive/web-stack@gh-pages/js/xenon-api.min.js
-  xenonToggles: https://cdn1.tianli0.top/gh/kkfive/web-stack@gh-pages/js/xenon-toggles.min.js
-  xenonCustom: https://cdn1.tianli0.top/gh/kkfive/web-stack@gh-pages/js/xenon-custom.min.js
-  lozad: https://cdn1.tianli0.top/gh/kkfive/web-stack@gh-pages/js/lozad.min.js
-  html5shiv: https://cdn1.tianli0.top/gh/kkfive/web-stack@gh-pages/js/html5shiv.min.js
-  respond: https://cdn1.tianli0.top/gh/kkfive/web-stack@gh-pages/js/respond.min.js
+  header: https://fastly.jsdelivr.net/gh/kkfive/web-stack@gh-pages/js/header.min.js
+  footer: https://fastly.jsdelivr.net/gh/kkfive/web-stack@gh-pages/js/footer.js
+  jquery: https://fastly.jsdelivr.net/gh/kkfive/web-stack@gh-pages/js/jquery-1.11.1.min.js
+  bootstrap: https://fastly.jsdelivr.net/gh/kkfive/web-stack@gh-pages/js/bootstrap.min.js
+  TweenMax: https://fastly.jsdelivr.net/gh/kkfive/web-stack@gh-pages/js/TweenMax.min.js
+  resizeable: https://fastly.jsdelivr.net/gh/kkfive/web-stack@gh-pages/js/resizeable.min.js
+  joinable: https://fastly.jsdelivr.net/gh/kkfive/web-stack@gh-pages/js/joinable.js
+  xenonApi: https://fastly.jsdelivr.net/gh/kkfive/web-stack@gh-pages/js/xenon-api.min.js
+  xenonToggles: https://fastly.jsdelivr.net/gh/kkfive/web-stack@gh-pages/js/xenon-toggles.min.js
+  xenonCustom: https://fastly.jsdelivr.net/gh/kkfive/web-stack@gh-pages/js/xenon-custom.min.js
+  lozad: https://fastly.jsdelivr.net/gh/kkfive/web-stack@gh-pages/js/lozad.min.js
+  html5shiv: https://fastly.jsdelivr.net/gh/kkfive/web-stack@gh-pages/js/html5shiv.min.js
+  respond: https://fastly.jsdelivr.net/gh/kkfive/web-stack@gh-pages/js/respond.min.js
   busuanzi: https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js
 
 css:
-  hclonely: https://cdn1.tianli0.top/gh/kkfive/web-stack@gh-pages/css/hclonely.css
+  hclonely: https://fastly.jsdelivr.net/gh/kkfive/web-stack@gh-pages/css/hclonely.css
   fonts: //fonts.loli.net/css?family=Arimo:400,700,400italic
-  linecons: https://cdn1.tianli0.top/gh/kkfive/web-stack@gh-pages/css/fonts/linecons/css/linecons.min.css
-  fontawesome: https://cdn1.tianli0.top/gh/kkfive/web-stack@gh-pages/css/fonts/fontawesome/css/all.min.css
-  bootstrap: https://cdn1.tianli0.top/gh/kkfive/web-stack@gh-pages/css/bootstrap.min.css
-  xenonCore: https://cdn1.tianli0.top/gh/kkfive/web-stack@gh-pages/css/xenon-core.min.css
-  xenonComponents: https://cdn1.tianli0.top/gh/kkfive/web-stack@gh-pages/css/xenon-components.min.css
-  xenonSkins: https://cdn1.tianli0.top/gh/kkfive/web-stack@gh-pages/css/xenon-skins.min.css
-  nav: https://cdn1.tianli0.top/gh/kkfive/web-stack@gh-pages/css/nav.min.css
+  linecons: https://fastly.jsdelivr.net/gh/kkfive/web-stack@gh-pages/css/fonts/linecons/css/linecons.min.css
+  fontawesome: https://fastly.jsdelivr.net/gh/kkfive/web-stack@gh-pages/css/fonts/fontawesome/css/all.min.css
+  bootstrap: https://fastly.jsdelivr.net/gh/kkfive/web-stack@gh-pages/css/bootstrap.min.css
+  xenonCore: https://fastly.jsdelivr.net/gh/kkfive/web-stack@gh-pages/css/xenon-core.min.css
+  xenonComponents: https://fastly.jsdelivr.net/gh/kkfive/web-stack@gh-pages/css/xenon-components.min.css
+  xenonSkins: https://fastly.jsdelivr.net/gh/kkfive/web-stack@gh-pages/css/xenon-skins.min.css
+  nav: https://fastly.jsdelivr.net/gh/kkfive/web-stack@gh-pages/css/nav.min.css
