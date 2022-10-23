@@ -18,10 +18,25 @@
   url: https://www.ghpym.com/
   description: 果核剥壳是一家博客类型的资源分享软件，分享绿色软件软件，破解软件，安卓软件，纯净系统等。守住互联网最后的一片净土。
 
-- name: MacWk - 精品mac软件下载
-  img: https://macwk.com/favicon.ico
-  url: https://macwk.com/
-  description: 精品mac软件下载
+- name: appstorrent
+  img: https://appstorrent.ru/templates/appstorrent-82778284d4/assets/img/og/favicon-194x194.png
+  url: https://appstorrent.ru/
+  description: appstorrent
+
+- name: MACYY-Mac破解软件分享中心
+  img: https://www.macyy.cn/favicon.ico
+  url: https://www.macyy.cn/
+  description: Mac破解软件分享中心
+
+- name: 马可菠萝 - 分享你喜欢的MAC应用
+  img: https://static.skyandroid.cn/images/favicon.ico
+  url: https://www.macbl.com/
+  description: Macbl 提供最全面的Mac软件免费下载，分享最新的Mac游戏、图形设计软件、行业软件、开发工具、媒体工具、网络工具、系统工具等，为你搭建最专业的苹果软件免费下载平台。
+
+- name: 精品MAC应用分享
+  img: https://img.xclient.info/icon/favicon.ico
+  url: https://xclient.info/
+  description: 精品MAC应用分享，每天分享大量mac软件，为您提供优质的mac软件,免费软件下载服务
 
 - name: Fork - 安全、实用的用户脚本大全
   img: https://ae01.alicdn.com/kf/H5d14e64fbd05449e89a21e54ac9d5fa9e.png
