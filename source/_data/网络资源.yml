@@ -67,3 +67,8 @@
   img: https://ae01.alicdn.com/kf/H45049bc315ee413f828f84ce0c6c512fu.png
   url: https://chrome.google.com/webstore/category/extensions?hl=zh
   description: 用来向您的浏览器添加新功能并个性化您的浏览体验的小程序
+
+- name: Packal
+  img: http://www.packal.org/sites/default/files/public/packal-128_1.png
+  url: http://www.packal.org
+  description: Packal.org is the repository for Alfred 2 Workflows and Themes. All Workflows and Themes are user-contributed, and all can extend the Mac OS X application Alfred 2.
