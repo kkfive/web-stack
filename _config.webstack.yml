@@ -81,6 +81,9 @@ menu:
       - name: 代码平台
         icon: fas fa-code
         config: 代码平台
+      - name: 常用工具
+        icon: fas fa-code
+        config: 常用工具
 
   - name: 素材资源
     icon: far fa-star

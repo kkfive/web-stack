@@ -1,0 +1,4 @@
+- name: Rome
+  img: https://docs.rome.tools/img/pinned-rome-logo.svg
+  url: https://docs.rome.tools/
+  description: Rome unifies your development stack by combining the functionality of separate tools.Single configuration file, amazing performance, and works with any stack.
